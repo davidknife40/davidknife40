@@ -12,6 +12,12 @@
   - [Cheat Sheets (SQLi/XSS)](https://github.com/davidknife40/Pentesting)
 - <b>Cyber Security Blog</b>
   - [Davidknife.com](https://davidknife.com)
+- <b>Certifications</b>
+  - [CISSP](https://www.isc2.org/certifications/cissp)
+  - [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/)
+  - [Azure SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
+  - [eJPT](https://info.ine.com/ejpt/)
+  - [RHCSA](https://www.redhat.com/en/services/certification/rhcsa)
 
 <h2> 🤳 Connect with me:</h2>
 
