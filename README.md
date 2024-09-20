@@ -10,6 +10,7 @@
 - <b>Penetration Testing</b>
   - [Reverse Shells](https://github.com/davidknife40/Shells)
   - [Cheat Sheets (SQLi/XSS)](https://github.com/davidknife40/Pentesting)
+  - [Python IP Scanner](https://github.com/davidknife40/Pentesting/blob/main/IP_scanner_Python)
 - <b>Cyber Security Blog</b>
   - [Davidknife.com](https://davidknife.com)
 - <b>Certifications</b>
