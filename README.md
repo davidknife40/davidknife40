@@ -8,9 +8,7 @@
 - <b>Defender 365 Advanced Threat Hunting Queries</b>
   - [Collection](https://github.com/davidknife40/Defender-365-Queries)
 - <b>Penetration Testing</b>
-  - [Reverse Shells](https://github.com/davidknife40/Shells)
-  - [Cheat Sheets (SQLi/XSS)](https://github.com/davidknife40/Pentesting)
-  - [Python IP Scanner](https://github.com/davidknife40/Pentesting/blob/main/IP_scanner_Python)
+  - [Collection of penetration testing cheats to make life a little easier (living page)](https://github.com/davidknife40/Pentesting)
 - <b>Cyber Security Blog</b>
   - [Davidknife.com](https://davidknife.com)
 - <b>Certifications</b>
